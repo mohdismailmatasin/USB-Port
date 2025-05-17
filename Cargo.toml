@@ -1,0 +1,10 @@
+[package]
+name = "usbport"
+version = "0.1.0"
+edition = "2021"
+
+description = "USB port status utility"
+
+[dependencies]
+colored = "2.0.0" 
+regex = "1"
